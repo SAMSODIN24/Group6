@@ -42,3 +42,10 @@ FOLDER STRUCTURE
 ├── .gitignore          # Git ignore file
 ├── README.md           # Project overview and setup instructions
 └── LICENSE             # License information
+
+ENVIRONMENTAL VARIABLES
+DATABASE_URL=mysql://user:password@localhost:3306/mydatabase
+API_KEY=your_api_key_here
+SECRET_KEY=your_secret_key_here
+NODE_ENV=development
+
